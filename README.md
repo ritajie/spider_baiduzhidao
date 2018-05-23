@@ -1,2 +1,2 @@
 # spider_baiduzhidao
-检索百度知道内容
+检索百度知道
