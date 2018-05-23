@@ -1,2 +1,5 @@
 # spider_baiduzhidao
-检索百度知道
+
+收集100页的百度知道搜索结果
+
+在线测试http://www.fubaijie.cn/tools/
